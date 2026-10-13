@@ -1,6 +1,6 @@
 # Hi 👋, I'm Davi Guedes 
 
-🚀 **Mid-Level Software Engineer | JavaScript & Front-End Development | Building Websites, SaaS Products & Business Systems**  
+🚀 ****Mid-Level Software Engineer | Systems Analyst | JavaScript & Front-End Development | Building Websites, SaaS Products & Business Systems****  
 
 🇧🇷 Brazil
 
